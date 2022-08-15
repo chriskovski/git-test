@@ -1,2 +1,2 @@
 # git-test
-Me testing more advanced git commands
+Me testing more advanced git techniques
